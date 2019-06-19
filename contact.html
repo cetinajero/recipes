@@ -1,8 +1,8 @@
 ---
-title: Contact
+title: Contacto
 ---
-<h1>Contact</h1>
-<p class="editable">Get in touch with any feedback or questions about the recipes featured here.</p>
+<h1>Contacto</h1>
+<p class="editable">Envíame cualquier comentario o duda que tengas sobre las recetas publicadas en mi blog.</p>
 
 <form method="post" action="https://formspree.io/paunix_10@hotmail.com">
 		<input type="hidden" name="_to" value="{{ site.data.email }}" />
@@ -10,34 +10,34 @@ title: Contact
 
 	<div class="contain">
 		<div class="split">
-			<label for="first-name">First Name</label>
-			<input type="text" name="first-name" id="first-name" />
+			<label for="first-name">Nombre</label>
+			<input type="text" name="nombre" id="first-name" />
 		</div>
 		<div class="split">
-			<label for="surname">Surname</label>
-			<input type="text" name="surname" id="surname" />
+			<label for="surname">Apellido</label>
+			<input type="text" name="apellido" id="surname" />
 		</div>
 	</div>
 
 	<div class="contain">
 		<div class="split">
-			<label for="email">Email Address</label>
+			<label for="email">Correo electrónico</label>
 			<input type="email" name="email" id="email" required />
 		</div>
 
 		<div class="split">
-			<label for="subject">Subject</label>
-			<select id="subject" name="subject">
-				<option value="enquiry">Enquiry</option>
-				<option value="suggestion">Suggestion</option>
-				<option value="press">Press</option>
-				<option value="other">Other</option>
+			<label for="subject">Asunto</label>
+			<select id="subject" name="asunto">
+				<option value="enquiry">Duda</option>
+				<option value="suggestion">Sugerencia</option>
+				<option value="press">Publicación</option>
+				<option value="other">Otro</option>
 			</select>
 		</div>
 	</div>
 
-	<label for="message">Message</label>
-	<textarea name="message" id="message"></textarea>
+	<label for="message">Mensaje</label>
+	<textarea name="mensaje" id="message"></textarea>
 
-	<input type="submit" value="Send Message" />
+	<input type="submit" value="Enviar mensaje" />
 </form>

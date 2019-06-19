@@ -1,8 +1,8 @@
 ---
 date: 2017-01-05
-title: Gingernut Cookies
+title: Galletas de jengibre
 categories:
-  - Cookies
+  - Galletas
 featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
 recipe:
   servings: 60 cookies
@@ -23,7 +23,7 @@ recipe:
     5. Bake at 350°F for 15 minutes.
     6. Cool on a wire rack and keep in an airtight container once cold.
 ---
-These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.
+Tradicionalmente, son galletas crujientes muy duras hecha para remojar en té o café. Cuanto más grandes sean las bolas, más crujientes será el resultado final.
 
 ![Cookie](https://source.unsplash.com/euGck1ifvp0)
 

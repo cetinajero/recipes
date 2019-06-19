@@ -9,11 +9,12 @@ nav {
 	a {
 		display: inline-block;
 		text-decoration: none;
-		padding: 20px 15px;
+		padding: 20px 12px;
 		color: #444;
 		text-transform: uppercase;
 		letter-spacing: 1px;
 		font-size: .9em;
+		text-align: center;
 
 		&.active {
 			color: #888;
