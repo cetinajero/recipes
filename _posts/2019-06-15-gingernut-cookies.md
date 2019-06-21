@@ -1,9 +1,10 @@
 ---
-date: 2017-01-05
+date: 2019-06-15
 title: Galletas de jengibre
 categories:
+  - Postres
   - Galletas
-featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
+featured_image: /images/posts/2019-06-15-gingernut-cookies-01.jpg
 recipe:
   servings: 60 cookies
   prep: 15 minutes
@@ -25,14 +26,14 @@ recipe:
 ---
 Tradicionalmente, son galletas crujientes muy duras hecha para remojar en té o café. Cuanto más grandes sean las bolas, más crujientes será el resultado final.
 
-![Cookie](https://source.unsplash.com/euGck1ifvp0)
+![Cookie]({{ '/images/posts/2019-06-15-gingernut-cookies-02.jpg' | relative_url }})
 
 Carefully placing them on the tray.
 
-![Cookie](https://source.unsplash.com/RUPPakds28k)
+![Cookie]({{ '/images/posts/2019-06-15-gingernut-cookies-03.jpg' | relative_url }})
 
 Little Gavin loves them.
 
-![Cookie](https://source.unsplash.com/YnrSLOAjOEA)
+![Cookie]({{ '/images/posts/2019-06-15-gingernut-cookies-04.jpg' | relative_url }})
 
 Delicious!

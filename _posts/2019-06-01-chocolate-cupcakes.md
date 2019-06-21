@@ -1,10 +1,11 @@
 ---
-date: 2017-01-07
+date: 2019-06-01
 title: Cupcakes de chocolate
 categories:
-  - Cupcakes
+  - Postres
   - Pasteles
-featured_image: https://source.unsplash.com/qJ0zGkrE1Zg/1560x940
+  - Cupcakes
+featured_image: /images/posts/2019-06-01-chocolate-cupcakes-01.jpg
 recipe:
   servings: 12 cupcakes
   prep: 5 minutos
@@ -49,14 +50,14 @@ recipe:
 ---
 Estos cupcakes de chocolate tienen una apariencia deslumbrante y una rica dulzura de chocolate. He encontrado en fiestas que la gente prefiere los postres pequeños, así que recomiendo hacer 24 mini cupcakes en lugar de 12 grandes. De esa manera, ¡no encontrarás cupcakes a medio comer en tu fiesta!
 
-![Cupcakes](https://images.unsplash.com/photo-1448131063153-f1e240f98a72?w=1560&h=940&fit=crop)
+![Cupcakes]({{ '/images/posts/2019-06-01-chocolate-cupcakes-02.jpg' | relative_url }})
 
 ¡Agregar un poco de chispas de colores siempre es una buena ídea!
 
-![Cupcakes](https://images.unsplash.com/photo-1420730614543-e39f93134b0d?w=1560&h=940&fit=crop)
+![Cupcakes]({{ '/images/posts/2019-06-01-chocolate-cupcakes-03.jpg' | relative_url }})
 
 Un vaso de leche es la combinación perfecta para un cupcake de chocolate.
 
-![Cupcakes](https://images.unsplash.com/photo-1457508252818-162dc1934c2f?w=1560&h=940&fit=crop)
+![Cupcakes]({{ '/images/posts/2019-06-01-chocolate-cupcakes-04.jpg' | relative_url }})
 
 Y, ¿por qué no agregarles palomitas de caramelo?

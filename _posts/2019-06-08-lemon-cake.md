@@ -1,9 +1,10 @@
 ---
-date: 2017-01-06
+date: 2019-06-08
 title: Pastel de limón
 categories:
+  - Postres
   - Pasteles
-featured_image: https://source.unsplash.com/NAN22eh754c/1560x940
+featured_image: /images/posts/2019-06-08-lemon-cake-01.jpg
 recipe:
   servings: 12 slices
   prep: 15 minutes
@@ -29,14 +30,14 @@ recipe:
 ---
 Si eres un fanático, te va a encantar este pastel. El pastel de limón es uno de mis postres favoritos de todo el año, pero es una opción perfecta para la primavera y el verano, cuando todo el mundo tiende a desear cítricos o recetas ligeras y sabrosas
 
-![Cake](https://source.unsplash.com/1HPTYLozDGw)
+![Cake]({{ '/images/posts/2019-06-08-lemon-cake-02.jpg' | relative_url }})
 
 Straight out of the oven.
 
-![Cake](https://source.unsplash.com/WoVGndRTx2o)
+![Cake]({{ '/images/posts/2019-06-08-lemon-cake-03.jpg' | relative_url }})
 
 You can add extra flavour with berries.
 
-![Cake](https://source.unsplash.com/7JYVKRo7i5Q)
+![Cake]({{ '/images/posts/2019-06-08-lemon-cake-04.jpg' | relative_url }})
 
 Or a caramel sauce.
