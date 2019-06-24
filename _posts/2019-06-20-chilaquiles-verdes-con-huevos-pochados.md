@@ -25,7 +25,7 @@ recipe:
     1. Para pochar huevos necesitaremos un sartén antihaderente, lo llenaremos con agua y dejaremos que hierva.
     2. Cuando esté hirviendo bajar la temperatura del fuego y agregar una cucharada de vinagre de manzana al agua.
     3. Utilizar bowls chicos o ramekies para pasar el huevo al agua, reventarlos en ellos y pasar con cuidado al agua caliente (hasta 4 huevos a la vez).
-    4. Tapar el sartén y dejar cocinar or 4 minutos. sacar con una cuchara para drenar, escurrir un poco y servir.
+    4. Tapar el sartén y dejar cocinar por 4 minutos. sacar con una cuchara para drenar, escurrir un poco y servir.
 
     **Montaje**
     1. En un plato hondo acomodar un puño de totopos horneados, bañar con la salsa bien caliente y montarlos huevos pochados arriba.
