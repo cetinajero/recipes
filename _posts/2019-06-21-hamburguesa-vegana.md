@@ -3,6 +3,7 @@ date: 2019-06-21
 title: Hamburguesa vegana
 categories:
   - Plato fuerte
+  - Hamburguesas
 featured_image: /images/posts/2019-06-21-hamburguesa-vegana-01.jpg
 recipe:
   servings: 4 porciones
@@ -10,7 +11,7 @@ recipe:
   cook: 40 minutos
   ingredients_markdown: |-
     **Hamburguesa vegana**
-    
+
     * 2 tazas de frijol negro cocido, bien drenado
     * 1/2 pimiento morrón verde
     * 1/2 cebolla blanca picada
@@ -21,12 +22,12 @@ recipe:
     * 2 cdtas de sal de mar
     * 1/2 cdta de pimienta
     * 1 taza de harina de avena
-    
+
     **Chutney agridulce**
-    
+
     * 3 cdas de aceite de coco
     * 3 cebollas blancas, picadas en pluma
-    * 4 tomates saladet, partidos en 4 
+    * 4 tomates saladet, partidos en 4
     * 4 dientes de ajo, picados finamente
     * 2 cms de jengibre, rallado o picado finamente
     * 1 varita de canela
@@ -34,7 +35,7 @@ recipe:
     * 3/4 taza de azúcar morena o mascabado
     * 1/2 taza de vinagre de manzana
     * 1/4 taza de vinagre de vino tinto (opcional)
-    
+
   directions_markdown: |-
     **Hamburguesa vegana**
 
@@ -48,7 +49,7 @@ recipe:
     8. Formar las hamburguesas con las manos mojadas.
     9. En un sartén muy caliente poner nuestras hamburguesas, tapar, y voltear cuando esté dorada, aprox 5 minutos por lado.
     10. Montar como una hamburguesa regular en pan integral, una cucharada de chutney agridulce y unas rebanadas de aguacate y germinado de alfalfa.
-    
+
     **Chutney agridulce**
 
     1. En un sartén u olla con tapa, calentar el aceite de coco, saltear la cebolla y el tomate.
