@@ -4,7 +4,7 @@ title: Galletas de jengibre
 categories:
   - Postres
   - Galletas
-featured_image: /images/posts/2019-06-15-gingernut-cookies-01.jpg
+image: /images/posts/2019-06-15-gingernut-cookies-01.jpg
 recipe:
   servings: 60 cookies
   prep: 15 minutes

@@ -5,7 +5,7 @@ categories:
   - Postres
   - Pasteles
   - Cupcakes
-featured_image: /images/posts/2019-06-01-chocolate-cupcakes-01.jpg
+image: /images/posts/2019-06-01-chocolate-cupcakes-01.jpg
 recipe:
   servings: 12 cupcakes
   prep: 5 minutos

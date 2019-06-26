@@ -2,15 +2,15 @@
 # Site
 
 title: Paunix Treat Bakery
-url: "https://cetinajero.github.io/"
-baseurl:
+url: "https://paunix.github.io/"
+baseurl: "/recipes"
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: My personal food blog
+description: Mi blog personal de alimentación saludable
 author:
   name:
   email:
@@ -18,7 +18,7 @@ author:
 social:
   name: Treat Bakery
   links:
-    - https://github.com/cetinajero/recipes
+    - https://github.com/paunix/recipes
 
 # -----
 # Build
@@ -27,14 +27,21 @@ timezone: Etc/UTC
 
 paginate: 10
 paginate_path: "/:num/"
-permalink: pretty
+permalink: /:year/:month/:day/:title/
 
 defaults:
   -
     scope:
       path: ""
+      type: "pages"
+    values:
+      image: https://paunix.github.io/recipes/images/author.jpg
+  -
+    scope:
+      path: ""
       type: "posts"
     values:
+      image: https://paunix.github.io/recipes/images/author.jpg
       layout: "post"
       push_sidebar_down: true
       print_stylesheet: true
@@ -43,7 +50,7 @@ defaults:
         content:
           width: 1560
           height: 2000
-        featured_image:
+        image:
           width: 1560
           height: 2000
   -

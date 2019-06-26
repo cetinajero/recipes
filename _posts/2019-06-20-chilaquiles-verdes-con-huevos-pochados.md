@@ -4,7 +4,7 @@ title: Chilaquiles verdes con huevos pochados
 categories:
   - Plato fuerte
   - Comida mexicana
-featured_image: /images/posts/2019-06-20-chilaquiles-verdes-con-huevos-pochados-01.jpg
+image: /images/posts/2019-06-20-chilaquiles-verdes-con-huevos-pochados-01.jpg
 recipe:
   servings: 3 porciones
   prep: 20 minutos

@@ -4,7 +4,7 @@ title: Pastel de limón
 categories:
   - Postres
   - Pasteles
-featured_image: /images/posts/2019-06-08-lemon-cake-01.jpg
+image: /images/posts/2019-06-08-lemon-cake-01.jpg
 recipe:
   servings: 12 slices
   prep: 15 minutes

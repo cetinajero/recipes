@@ -9,7 +9,7 @@ image_view: true
 		<h2>{{ category[0] }}</h2>
 		<div class="recipes">
 			{% for recipe in category[1] %}
-				<div class="recipe" style="background-image: url('{{ recipe.featured_image | relative_url }}')">
+				<div class="recipe" style="background-image: url('{{ recipe.image | relative_url }}')">
 					<a href="{{ recipe.url | relative_url }}"><span>{{ recipe.title }}</span></a>
 				</div>
 			{% endfor %}

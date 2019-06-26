@@ -4,7 +4,7 @@ title: Rainbow wraps
 categories:
   - Acompañamiento
   - Wraps
-featured_image: /images/posts/2019-06-25-rainbow-wraps-01.jpg
+image: /images/posts/2019-06-25-rainbow-wraps-01.jpg
 recipe:
   servings: 4 porciones
   prep: 20 minutos
