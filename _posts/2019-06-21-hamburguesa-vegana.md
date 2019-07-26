@@ -4,6 +4,8 @@ title: Hamburguesa vegana
 categories:
   - Plato fuerte
   - Hamburguesas
+  - Veganos
+  - Vegetarianos
 image: /images/posts/2019-06-21-hamburguesa-vegana-01.jpg
 recipe:
   servings: 4 porciones

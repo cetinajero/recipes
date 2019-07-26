@@ -2,8 +2,9 @@
 date: 2019-07-09
 title: Mousse de chocolate
 categories:
-  - Postre
-  - Mousse
+  - Postres
+  - Mousses
+  - Veganos
 image: /images/posts/2019-07-09-mousse-de-chocolate-01.jpg
 recipe:
   servings: 5 porciones

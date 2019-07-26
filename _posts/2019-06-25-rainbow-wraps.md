@@ -2,8 +2,10 @@
 date: 2019-06-25
 title: Rainbow wraps
 categories:
-  - Acompañamiento
+  - Acompañamientos
   - Wraps
+  - Veganos
+  - Vegetarianos
 image: /images/posts/2019-06-25-rainbow-wraps-01.jpg
 recipe:
   servings: 4 porciones

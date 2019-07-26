@@ -4,6 +4,9 @@ title: Aguachile de ribeye
 categories:
   - Plato fuerte
   - Carne
+  - Ketos
+  - Paleos
+  - Low Carbs
 image: /images/posts/2019-07-07-aguachile-de-ribeye-01.jpg
 recipe:
   servings: 4 porciones
