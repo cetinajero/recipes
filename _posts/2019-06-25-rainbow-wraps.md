@@ -14,12 +14,12 @@ recipe:
   ingredients_markdown: |-
     **Hummus de betabel**
 
-    * 1 1/2 tazasde garbanzo cocido
+    * 1 1/2 tazas de garbanzo cocido
     * 1 betabel mediano cocido (aprox. 1 taza de betabel cocido)
     * 2 dientes de ajo
     * Jugo de 2 limones
     * 1 cdta de pimienta
-    * 2 cdta de sal
+    * 1 cdta de sal
     * 2 cdtas de aceite de oliva
 
     **Wrap**
@@ -30,7 +30,7 @@ recipe:
     * 1/4 de hummus de betabel
     * 2 cucharadas grandes de cebolla curtida
     * 1/4 de aguacate en rebanadas
-    * 1/4 depimiento morrón amarillo en julianas delgadas
+    * 1/4 de pimiento morrón amarillo en julianas delgadas
 
   directions_markdown: |-
     **Hummus de betabel**
@@ -44,7 +44,7 @@ recipe:
     2. Retirarle el  exceso de agua con una servilleta.
     3. Acomodar las hojas de acelga necesarias para crear una superficie del tamaño de una hoja carta.
     4. Acomodar los ingredientes del relleno en el centro de las hojas de acelga.
-    5. Con cuidado envolver los ingredientes y dar forma de "burrito".
+    5. Con cuidado, envolver los ingredientes y dar forma de "burrito".
     6. Cortar y servir.
 ---
 Un excelente complemento nutritivo que dara una exclusiva apariencia a tu platillo fuerte.

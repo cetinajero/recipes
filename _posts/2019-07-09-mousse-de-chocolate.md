@@ -22,9 +22,9 @@ recipe:
     1. Drenar el líquido del tofu.
     2. Agregar el tofu y todos los demas ingredientes excepto el chocolate amargo a un procesador o a una licuadora.
     3. Licuar hasta que todo se una y se vea cremoso.
-    4. En baño maria o en el microondas derretir con cuidado el chocolate oscuro.
+    4. En baño maria o en el microondas, derretir con cuidado el chocolate oscuro.
     5. Agregar el chocolate derretido poco a poco a nuestra mezcla y continuar licuando.
     6. Poner en copas, tazas o vasos y dejar enfriar un poco.
-    7. Servir con berries frescas, fresas o nueces.
+    7. Servir con berries frescas, fresas ó nueces.
 ---
 ¡Prepara y disfruta sanamente de este delicioso mousse de chocolate sin sentir mayor culpa!

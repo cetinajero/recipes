@@ -42,21 +42,21 @@ recipe:
   directions_markdown: |-
     **Xnipec**
 
-    1. En un bowl mezclar la cebolla con el resto de los ingredientes.
+    1. En un bowl, mezclar la cebolla con el resto de los ingredientes.
     2. Mover hasta que todo se incorpore por completo.
     3. Tapar.
     4. Refrigerar al menos por una noche.
 
     **Ceviche rosa**
 
-    1. En una licuadora moler por completo todos los ingredientes.
+    1. En una licuadora, moler por completo todos los ingredientes.
     2. Pasar la mezcla por un colador fino.
     3. Rectificar sazón.
     4. Reservar ceviche.
 
     **Montaje**
 
-    1. En un bowl mezclar la jícama, el palmito y el garbanzo.
+    1. En un bowl, mezclar la jícama, el palmito y el garbanzo.
     2. Acomodar la mezcla en el centro de un plato blanco.
     3. Bañar con el ceviche rosa.
     4. Decorar con las lajas de pepino hechas rollito, las rebanadas delgadas de rábano, la cebolla morada fresca, las hojas de cilantro y la manzana verde.

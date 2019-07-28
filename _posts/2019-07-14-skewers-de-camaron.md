@@ -20,7 +20,7 @@ recipe:
     * 1/2 taza de cebollín rebanado, separando la parte blanca de la verde
     * 2 dientes de ajo picados
     * 2 cdas de aceite de coco para saltear
-    * 2 cdas de salsa de soya o aminos líquidos
+    * 2 cdas de salsa de soya ó aminos líquidos
     * 2 cdas de aceite de ajonjolí
     * 1 huevo batido ligeramente
 
@@ -39,7 +39,7 @@ recipe:
   directions_markdown: |-
     **Arroz frito**
 
-    1. En un sartén con aceite de coco saltear la zanahoria y el arroz de coliflor por 4 minutos aprox.
+    1. En un sartén con aceite de coco, saltear la zanahoria y el arroz de coliflor por 4 minutos aprox.
     2. Agregar el ajo picado y la parte blanca de la cebolla de rabo al sartén.
     3. Cocinar unos 2 minutos más y agregar el huevo batido.
     4. Mezclar con los vegetales y no dejar de mover hasta que todo quede cubierto de huevo y el huevo esté bien cocido.
@@ -61,4 +61,4 @@ recipe:
     1. Servir la brocheta arriba de una base de arroz frito.
     2. Espolvorear con cilantro picado y cacahuates.
 ---
-Este es el platillo perfecto para un domingo de antojos. Sabemos que no habrá nada mejor luego de una noche de desvelo y recreación.
+Este es el platillo perfecto para un domingo de antojos; sabemos que no habrá nada mejor luego de una noche de desvelo y recreación.
