@@ -31,6 +31,7 @@ recipe:
     * 1 brócoli chico, picado finamente
     * 2 dientes de ajo, picados finamente
     * 3 calabacitas muy firmes para los noodles
+    * Quinoa para decorar
   directions_markdown: |-
     **Salsa de tomate**
 
@@ -45,8 +46,8 @@ recipe:
     1. En otro sartén, saltear el apio, el brócoli, el ajo, la cebolla y la zanahoria hasta que estén tiernos.
     2. Agregar las lentejas y saltear un poquito más.
     3. Agregar la salsa de tomate y dejar hervir unos minutos.
-    4. Hacer los noodles de calabacita ó usar pasta integral.
+    4. Hacer los noodles de calabacita con un espiralizador ó usar pasta integral.
     5. Montar en un plato hondo una capa de noodles de calabacita y una taza de nuestra bolognesa bien caliente.
-    6. Decorar con hojas de albahaca.
+    6. Decorar con hojas de albahaca y quinoa.
 ---
 Tus invitados jamás sabrán que no es un platillo con carne molida y disfrutarán de una comida deliciosa y saludable.
