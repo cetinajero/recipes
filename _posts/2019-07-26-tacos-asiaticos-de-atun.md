@@ -8,7 +8,7 @@ categories:
 image: /images/posts/2019-07-26-tacos-asiaticos-de-atun-01.jpg
 recipe:
   servings: 8 tacos
-  prep: 15 minutos
+  prep: 45 minutos
   cook: 10 minutos
   ingredients_markdown: |-
     **Asian coleslaw**
