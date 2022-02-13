@@ -21,9 +21,11 @@ recipe:
     * 4 zanahorias
     * 3 calabacitas
     * 8 papas cambray
+    * 1 aguacate
     * 1/2 cebolla
 
     **Condimientos**
+    * 1 chile chipotle
     * 2 dientes de ajo
     * 5 bolitas de pimienta
     * 2 cdas de sal
@@ -34,8 +36,10 @@ recipe:
 
     1. Mientras tanto, lavar los vegetales, pelar las zanahorias, quitar orillas de zanahorias y calabacitas y picar todo en trozos grandes.
 
-    1. Al pasar los 15 min, luego de que el caldo estuvo hirviendo... abrir la lata de garbanzos, escurrirlos y añadirlos al caldo junto con el arroz, las zanahorias y las papas; Dejar hervir por 15 minutos.
+    1. Al pasar los 15 min, luego de que el caldo estuvo hirviendo... abrir la lata de garbanzos, escurrirlos y añadirlos al caldo junto con el arroz, las zanahorias, el chile chipotle y las papas; Dejar hervir por 15 minutos.
 
     1. Luego de ese tiempo, agregar las calabacitas y dejar hervir por 15 minutos.
+
+    1. Por último, apagar el fuego y agregar el aguacate.
 ---
 Un caldo de pollo con verduras que le encantará a tu familia.
