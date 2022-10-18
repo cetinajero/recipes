@@ -2,8 +2,8 @@
 date: 2022-01-07
 title: Chili beans
 categories:
-  - Carne
-  - Guiso
+  - Carnes
+  - Guisos
 image: /images/posts/2022-01-07-chili-beans-01.jpg
 recipe:
   servings: 6 porciones

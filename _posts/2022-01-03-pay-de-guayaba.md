@@ -2,9 +2,9 @@
 date: 2022-01-03
 title: Pay de guayaba
 categories:
-  - Postre
-  - Fruta
-  - Pay
+  - Postres
+  - Frutas
+  - Pays
 image: /images/posts/2022-01-03-pay-de-guayaba-01.jpg
 recipe:
   servings: 2 pays
