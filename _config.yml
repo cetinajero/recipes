@@ -1,8 +1,4 @@
-# ----
-# Site
-
 title: Paunix Treat Bakery
-url: "https://paunix.github.io/"
 baseurl: "/recipes"
 google_analytics_key:
 newsletter_action:
@@ -18,12 +14,9 @@ author:
 social:
   name: Treat Bakery
   links:
-    - https://github.com/paunix/recipes
+    - https://github.com/paunix/recipes/
 
-# -----
-# Build
-
-timezone: Etc/UTC
+timezone: America/Chihuahua
 
 paginate: 10
 paginate_path: "/:num/"
