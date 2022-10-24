@@ -2,7 +2,7 @@
 date: 2022-10-21
 title: Salsa tatemada de piña y habanero
 categories:
-  - Salsa
+  - Salsas
   - Tacos
 image: /images/posts/2022-10-21-salsa-tatemada-de-piña-y-habanero-01.jpg
 recipe:
