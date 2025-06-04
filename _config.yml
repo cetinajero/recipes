@@ -1,4 +1,4 @@
-title: Paunix Treat Bakery
+title: Edgar's recipes book
 baseurl: "/recipes"
 google_analytics_key:
 newsletter_action:
@@ -12,9 +12,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Bakery
+  name: Edgar's recipes book
   links:
-    - https://github.com/paunix/recipes/
+    - https://github.com/cetinajero/recipes/
 
 timezone: America/Chihuahua
 
@@ -28,13 +28,13 @@ defaults:
       path: ""
       type: "pages"
     values:
-      image: https://paunix.github.io/recipes/images/author.jpg
+      image: https://cetinajero.github.io/recipes/images/author.jpg
   -
     scope:
       path: ""
       type: "posts"
     values:
-      image: https://paunix.github.io/recipes/images/author.jpg
+      image: https://cetinajero.github.io/recipes/images/author.jpg
       layout: "post"
       push_sidebar_down: true
       print_stylesheet: true

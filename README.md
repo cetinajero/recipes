@@ -1,6 +1,6 @@
-# Treat
+# Edgar's recipes book
 
-Food/baking blog template for Jekyll. Browse through a [live demo](https://paunix.github.io/recipes/).
+Food/baking blog template for Jekyll. Browse through a [live demo](https://cetinajero.github.io/recipes/).
 
 ## Features
 
@@ -24,7 +24,7 @@ Food/baking blog template for Jekyll. Browse through a [live demo](https://pauni
 
 ## Develop
 
-Treat was built with [Jekyll](http://jekyllrb.com/) version 3.4.3, but should support newer versions as well.
+Edgar's recipes book was built with [Jekyll](http://jekyllrb.com/) version 3.4.3, but should support newer versions as well.
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
@@ -40,7 +40,7 @@ $ bundle exec jekyll serve
 
 ## Editing
 
-Treat is already optimised for adding, updating and removing recipes, navigation, page content, and sidebar information in CloudCannon.
+Edgar's recipes book is already optimised for adding, updating and removing recipes, navigation, page content, and sidebar information in CloudCannon.
 
 ### Posts/Recipes
 
