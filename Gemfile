@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 # Specific version (comment) will be used by RVM
-#ruby=3.3.8
-ruby '3.3.8'
+#ruby=3.3.10
+ruby '3.3.10'
 
 source 'https://rubygems.org'
 
